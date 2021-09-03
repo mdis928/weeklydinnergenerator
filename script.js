@@ -40,7 +40,10 @@ const buttonSunday = document.getElementById('button7');
 const resultSunday = document.getElementById('result7');
 
 
-let dinner = ['Spagetti and meatballs', "Chicken and a salad", "steak and fries",];
+let dinner = ["Creamy Cilantro Steak Bowls", "Pork Chops with Creamy Lemon Pan Sauce", "Cranberry Dijon Pork Chops", "Creamy Dill Pork Cutlets", "Pinappley Pork Meatloaves", "Honey Thyme Pork Tenderloin", "Chipotle BBQ Pork Tenderloin", "Bulgogi Pork Cutlets over Veggie Stir-Fry", "Pimenton Pork Tenderloin", "Soy-Glazed Meatballs",
+              "Pork Chorizo & Corn Quesadillas", "Pinnapple Salsa Pork Chops", "Jammin Fig Pork Chops", "Balsamic-Glaed Pork Chops", "Honey-Glazed Pork Chops", "Pork Chops & Jalapeno Gravy", "Steakhouse Pork Chops", "Italian Wedding Soup", "Korean Beef Bibimbap", "Figgy Balsamic Pork", "Southwest-Spiced Steak", "Butter-Up Steak", 
+              "Mexican Pork & Street Corn Tacos", "Roasted Pork Tenderloin", "Carne Asada Steak Bowls", "Honey-Butter BBQ Pork Cutlets", "Teriyaki Pork Chops", "Miso-Butter Steaks & Rice", "Japanese Beef & Rice Bowls", "Pork Chops & Almond Salsa Verde", "Spiced Beef & Salsa Verde Couscous", "Shawarma-Spiced Meatball Pitas", "Sweet Soy Pork Tenderloins",
+              "Tuscan Beef-Stuffed Peppers", "Meatloaf A La Mom"];
 
 
 
