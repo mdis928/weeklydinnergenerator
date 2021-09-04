@@ -5,3 +5,14 @@
 .div {
     text-align: center;
 }
+
+@media screen and (max-width: 425px) {
+    .mainHeader {
+        font-size: 5vw;
+    }
+
+    .div {
+        font-size: 3.5vw;
+    }
+}
+
