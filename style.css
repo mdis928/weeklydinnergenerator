@@ -1,16 +1,16 @@
 body {
-    background-color: #CCCFBD;
-
+    /* background-color: #CCCFBD; */
+    background-image: url(./download.jpg);
 }
 
 .mainHeader {
     text-align: center;
-    background-color: rgb(117, 133, 207);
-    color: white;
+    background-color: #CCCFBD;
+    color: black;
     font-family: "Rubik", sans-serif;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.847);
     margin-bottom: .5%;
-    border: 2px solid white;
+    border: 2px solid black;
     padding: 1%;
     margin-left: 2%;
     margin-right: 2%;
@@ -19,13 +19,12 @@ body {
 
 .div {
     text-align: center;
-    background-color: rgb(117, 133, 207);
-    color: white;
+    background-color: #CCCFBD;
+    color: black;
     font-family: "Rubik", sans-serif;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.847);
     /* margin-bottom: .5%; */
-    border: 2px solid white;
-    
+    border: 2px solid black;
     margin-left: 20%;
     margin-right: 20%;
     border-radius: 25px;
@@ -41,7 +40,7 @@ body {
     border-radius: 25px;
     background-color: white ;
     font-family: "Rubik", sans-serif;
-    color: rgb(117, 133, 207);
+    color: black;
     font-weight: bold;
 }
 
